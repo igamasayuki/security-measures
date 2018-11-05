@@ -13,7 +13,7 @@
 <h4>どのような時に起こるか？</h4>
 <p>SQLに不正な文字列が含まれていた時</p>
 <h4>体験してみよう</h4>
-<p><a href="${pageContext.request.contextPath}/member/show" target="_blank">クロスサイトスクリプティングを体験</a></p>
+<p><a href="${pageContext.request.contextPath}/member/show" target="_blank">SQLインジェクションを体験</a></p>
 <h4>回避方法を話し合い、対策してみよう</h4>
 <p>グループで回避方法を話し合い(調べてもOK)、実際に対策してみてください。</p>
 </body>
