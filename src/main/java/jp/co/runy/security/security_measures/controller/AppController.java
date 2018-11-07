@@ -45,6 +45,6 @@ public class AppController {
 	 */
 	@RequestMapping("/toxsrfindex")
 	public String toXsrfIndex() {
-		return "xsrfindex";
+		return "csrfindex";
 	}
 }
